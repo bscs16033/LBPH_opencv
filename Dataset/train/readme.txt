@@ -1,0 +1,1 @@
+This folder will contain the training images. To add data about a person, create a folder and add all his images in that specific folder. The name of the folder should be an integer (e.g. 1, 2, 3, ...).
